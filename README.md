@@ -27,7 +27,7 @@
 
 #### 安装教程
 
-1. git clone https://gitee.com/blue_hair_and_white_hair/new_start.git
+1. git clone https://github.com/hfxiang2/qsbf.git
 2. npm install
 3. npm run dev
 
