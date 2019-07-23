@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7105769713537fab4763273ff215d34b.js"
+  "precache-manifest.30285068265cf991c4fc0b04e5ec3b21.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "qingshan"});
