@@ -32,19 +32,19 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.fa6fb969.js"
   },
   {
-    "revision": "afe481ebf397e752ca77e35ea1657457",
-    "url": "img/screen/微信图片_20190222175524.png"
+    "revision": "0b7587d12c21b7a5c78dc1d06c0648cc",
+    "url": "img/screen/微信图片_20190222175519.png"
   },
   {
     "revision": "0cb3c3c0f736df182547",
     "url": "js/product.bbbe7c1f.js"
   },
   {
-    "revision": "0b7587d12c21b7a5c78dc1d06c0648cc",
-    "url": "img/screen/微信图片_20190222175519.png"
+    "revision": "735ab4f94fbcd57074377afca324c813",
+    "url": "robots.txt"
   },
   {
-    "revision": "92979951b6e3a21f3a84e47f860c69a7",
+    "revision": "95e8e2a8370c19e05b86fec5ad0ae386",
     "url": "index.html"
   },
   {
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "js/HelloWorld.922d8922.js"
   },
   {
-    "revision": "96b8b25c547778da2bc0614cee939518",
-    "url": "img/screen/微信图片_20190222175527.png"
+    "revision": "afe481ebf397e752ca77e35ea1657457",
+    "url": "img/screen/微信图片_20190222175524.png"
   },
   {
-    "revision": "735ab4f94fbcd57074377afca324c813",
-    "url": "robots.txt"
+    "revision": "96b8b25c547778da2bc0614cee939518",
+    "url": "img/screen/微信图片_20190222175527.png"
   },
   {
     "revision": "f51f6a98fb8e5d8acf0fb56bb5baf3b1",
